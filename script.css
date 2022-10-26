@@ -1,0 +1,16 @@
+/* Index.css */
+.main1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+body{
+    background-image: url("covid19.jpg");
+}
+.form-group{
+    /* border:1px solid white; */
+    color: blanchedalmond;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    /* background-color: whitesmoke; */
+}
